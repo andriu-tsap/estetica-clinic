@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andriu-tsap.github.io/estetica-clinic/sitemap.xml
